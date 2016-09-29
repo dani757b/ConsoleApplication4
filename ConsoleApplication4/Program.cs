@@ -11,6 +11,7 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
             Console.WriteLine("Tes3434t");
+            Console.ReadLine();
         }
     }
 }
